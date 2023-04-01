@@ -1,0 +1,9 @@
+{
+    "select__uz": "Узбекский",
+    "select__ru": "Русский",
+    "select__en": "Англизкий",
+    "header__message": "Сообщения",
+    "header__profile": "Ваш профиль",
+    "header__button": "Подать объявление",
+    "search__button": "Поиск"
+}

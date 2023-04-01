@@ -1,0 +1,9 @@
+{
+    "select__uz": "Uzbek",
+    "select__ru": "Russian",
+    "select__en": "English",
+    "header__message": "Messages",
+    "header__profile": "Your profile",
+    "header__button": "Submit an ad",
+    "search__button": "Search"
+}

@@ -1,0 +1,39 @@
+.s-p{
+    &__wrapper{
+        display: flex;
+        align-items: flex-start;
+        justify-content: center;
+        padding: 50px 0;
+    }
+    &__info{
+        width: 400px;
+        padding: 25px 50px;
+    }
+    &__img{
+        width: 500px;
+        height: 500px;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+    &__title{
+        font-size: 30px;
+        font-weight: bold;
+        line-height: 24px;
+        letter-spacing: normal;
+        color: #002f34;
+    }
+    &__desc{
+        font-size: 18px;
+        font-weight: normal;
+        line-height: 24px;
+        letter-spacing: normal;
+        color: #002f34;
+        margin: 30px 0;
+    }
+    &__price{
+        font-size: 25px;
+        font-weight: bold;
+        letter-spacing: normal;
+        color: #002f34;
+    }
+}
